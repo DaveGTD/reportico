@@ -11,7 +11,7 @@ $locale_arr = array (
         "T_OPEN_LOGOFF" => "Exit Design Mode",
         "T_ENTER_PROJECT_PASSWORD" => "Enter the project password.",
         "T_ADMIN_INSTRUCTIONS" =>
-                "Select a report suite from the dropdown below or enter the Reportico Administrator Password to start designing Reportico reports.",
+                "Select a report suite from the dropdown below or enter the Report Administrator Password to start designing reports.",
         "T_SET_ADMIN_PASSWORD_INFO" =>
             "Administrator password not currently set.<br>You need to set a password to start using Reportico and <br>access Reportico's Administrative functions<br> Please enter your chosen password:",
         "T_ADMIN_PASSWORD_NOT_SET" => "Administrator password not currently set.",
