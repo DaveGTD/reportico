@@ -822,7 +822,7 @@ $loopct++;
   </div>
 </div>
 {/if}
-<!--div class="smallbanner">Powered by <a href="http://www.plenadata.com/" target="_blank">reportico {$REPORTICO_VERSION}</a></div-->
+<!--div class="smallbanner">Powered by <a href="http://www.plenadata.com/" target="_blank">PLENA DATA {$REPORTICO_VERSION}</a></div-->
 </div>
 {if !$EMBEDDED_REPORT} 
 </BODY>
