@@ -25,9 +25,9 @@
  * the graph or generate the graph itself using these
  * classes.
  *
- * @link http://www.reportico.org/
+ * @link http://www.plenadata.com/
  * @copyright 2010-2014 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: swgraph_flot.php,v 1.15 2013/09/26 19:23:06 peter Exp $

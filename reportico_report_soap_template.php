@@ -24,9 +24,9 @@
  * page headers, footers, group headers, group trailers
  * data lines
  *
- * @link http://www.reportico.org/
+ * @link http://www.plenadata.com/
  * @copyright 2010-2014 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: swoutput.php,v 1.33 2014/05/17 15:12:31 peter Exp $
@@ -73,7 +73,7 @@ class reportico_report_soap_template extends reportico_report
 				new soapval('reportReturn',
          				'ReportDeliveryType',
          				$this->soapdata,
-         				'http://reportico.org/xsd');
+         				'http://plenadata.com/xsd');
 		}
 
 	}

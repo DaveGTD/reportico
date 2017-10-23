@@ -23,9 +23,9 @@
  * and output it to the browser. Used by the Reportico engine
  * as a URL that can be embeeded in report browser output.
  *
- * @link http://www.reportico.org/
+ * @link http://www.plenadata.com/
  * @copyright 2010-2014 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: imageget.php,v 1.13 2014/05/17 15:12:31 peter Exp $

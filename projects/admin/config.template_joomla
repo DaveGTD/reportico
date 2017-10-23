@@ -74,7 +74,7 @@ define('SW_OUTPUT_ENCODING', 'None');
 define('SW_TMP_DIR', "tmp");
 
 // SOAP Environment
-define('SW_SOAP_NAMESPACE', 'reportico.org');
+define('SW_SOAP_NAMESPACE', 'plenadata.com');
 define('SW_SOAP_SERVICEBASEURL', 'http://www.reportico.co.uk/swsite/site/tutorials');
 
 // Parameter Defaults

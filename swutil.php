@@ -21,9 +21,9 @@
  *
  * Contains utility functions required during Reportico operation
  *
- * @link http://www.reportico.org/
+ * @link http://www.plenadata.com/
  * @copyright 2010-2011 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: swutil.php,v 1.38 2014/05/16 23:03:00 peter Exp $

@@ -23,9 +23,9 @@
  * to the database where details of an operation, a data view name
  * a key and values are passed within the URL
  *
- * @link http://www.reportico.org/
+ * @link http://www.plenadata.com/
  * @copyright 2010-2014 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: swmodify.php,v 1.8 2014/05/17 15:12:31 peter Exp $

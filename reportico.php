@@ -28,7 +28,7 @@
  *
  * @link http://www.reportico.co.uk/
  * @copyright 2010-2014 Peter Deed
- * @author Peter Deed <info@reportico.org>
+ * @author Peter Deed <info@plenadata.com>
  * @package Reportico
  * @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  * @version $Id: reportico.php,v 1.68 2014/05/17 15:12:31 peter Exp $
@@ -487,10 +487,10 @@ class reportico extends reportico_object
     var $url_path_to_assets = false;
 
     // Path to public reportico site for help
-    var $url_doc_site = "http://www.reportico.org/documentation/";
+    var $url_doc_site = "http://www.plenadata.com/documentation/";
 
     // Path to public reportico site
-    var $url_site = "http://www.reportico.org/";
+    var $url_site = "http://www.plenadata.com/";
 
     // Path to calling script for form actions
     // In standalone mode will be the reportico runner, otherwise the
@@ -5798,7 +5798,7 @@ function save_admin_password($password1, $password2, $language)
 		if ( !@file_exists ( $proj_template ) )
         {
             $old_error_handler = set_error_handler("ErrorHandler");
-    		return "Projects config template file $proj_template does not exist - please contact reportico.org";
+    		return "Projects config template file $proj_template does not exist - please contact plenadata.com";
         }
     $old_error_handler = set_error_handler("ErrorHandler");
 

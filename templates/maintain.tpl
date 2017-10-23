@@ -207,7 +207,7 @@ Logged On As {$DBUSER}
 		</TR>
 	</TABLE>
 </FORM>
-<div class="smallbanner">Powered by <a href="http://www.reportico.org/" target="_blank">reportico {$REPORTICO_VERSION}</a></div>
+<div class="smallbanner">Powered by <a href="http://www.plenadata.com/" target="_blank">reportico {$REPORTICO_VERSION}</a></div>
 </div>
 {if !$REPORTICO_AJAX_CALLED}
 {if !$EMBEDDED_REPORT}

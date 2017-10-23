@@ -9,10 +9,10 @@
     "authors": [
         {
             "name": "Reportico",
-            "email": "info@reportico.org"
+            "email": "info@plenadata.com"
         }
     ],
-    "homepage": "http://www.reportico.org/",
+    "homepage": "http://www.plenadata.com/",
     "license": "GPL-3.0",
     "require": {
         "php": ">=5.4.0"

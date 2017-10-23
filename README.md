@@ -22,10 +22,10 @@ design reports, create report menus, configure criteria, graphs, grouping, drill
 Clone the Reportico bundle into a web folder and point your browser at it ...
 
 For more information see the quickstart guide :-
-http://www.reportico.org/yii2/web/index.php/quickstart
+http://www.plenadata.com/yii2/web/index.php/quickstart
 
 or visit the Reportico Web Site
-http://www.reportico.org
+http://www.plenadata.com
 
 ## Screenshots
 
