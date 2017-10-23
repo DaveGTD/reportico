@@ -1124,8 +1124,7 @@ reporticohtmlwindow = null;
 function html_div_print(data) 
 {
     var reporticohtmlwindow = window.open('oooo', reportico_report_title, 'height=600,width=800');
-    // reporticohtmlwindow.document.write('<html><head><title>' + reportico_report_title + '</title>');
-    reporticohtmlwindow.document.write('<html><head><title>' + 'Plena Data' + '</title>');
+    reporticohtmlwindow.document.write('<html><head><title>' + reportico_report_title + '</title>');
     reporticohtmlwindow.document.write('<link rel="stylesheet" href="' + reportico_css_path + '" type="text/css" />');
     reporticohtmlwindow.document.write('</head><body >');
     reporticohtmlwindow.document.write(data);
